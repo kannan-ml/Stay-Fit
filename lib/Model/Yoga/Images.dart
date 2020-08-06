@@ -1,0 +1,1 @@
+final String yogaPoster='https://images.newindianexpress.com/uploads/user/imagelibrary/2020/3/29/w900X450/cxvxcv.jpg';
